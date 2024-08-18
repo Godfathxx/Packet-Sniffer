@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/packet-sniffer.git
+git clone https://github.com/Godfathxx/Packet-Sniffer.git
 cd packet-sniffer
 Install dependencies:
 
